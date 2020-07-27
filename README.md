@@ -9,6 +9,6 @@
 5. Chapter05 「[リンク、画像、コメント、特殊文字](chapter05/ch05-markuptag2.html)」
 6. Chapter06 「[ページにCSSを適応するトレーニング](chapter06/index.html)」
 7. Chapter07 「[テキストの装飾](chapter07/ch07-fontsytle.html)」
-8. Chapter08 「[リンクの設定と画像の表示](chapter08/ch080linkimg.html)」
+8. Chapter08 「[リンクの設定と画像の表示](chapter08/ch08-linkimg.html)」
 9. Chapter09 「[ボックスと情報の整理](chapter09/ch09-boxcss.html)」
 10. Chapter10 「[テーブル](chapter10/ch10-table.html)」
