@@ -1,0 +1,50 @@
+.required {
+	padding: 0.5em;
+	font-size:0.75;
+	color: #ff0000;
+}
+form {
+	padding: 16px
+}
+input {
+	box-sizing: border-box;
+}
+input[type="text"],[type="password"],[type="email"],[type="tel"] {
+	margin: 0.5em 0;
+	border: 1px solid #ccc;
+	padding 0.5em;
+	width: 100%;
+	font-size: 16px;
+	color: #999;
+	border-radius: 6px;
+}
+input[type="text"]:focus,[type="password"]:focus,[type="email"]:focus,[type="tel"]:focus {
+	background-color: #e2ecf6;
+}
+input, textarea {
+	box-sizing: border-box;
+}
+textarea {
+	margin: 0.5em 0;
+	border: 1px solid #ccc;
+	padding: 0.75em;
+	width: 100%;
+	height: 12em;
+	font-size: 16px;
+	color: #999;
+}
+form {
+	padding: 16px;
+}
+.label-p {
+	margin-bottom: 0;
+}
+.input-group {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.horizontal li {
+	display: inline;
+	margin-right: 1em;
+}
