@@ -13,3 +13,4 @@
 09. Chapter09 「[ボックスと情報の整理](chapter09/ch09-boxcss.html)」
 10. Chapter10 「[テーブル](chapter10/ch10-table.html)」
 11. Chapter11 「[フォーム](chapter11/ch11-form.html)」
+12. Chapter12 「[レイアウト](chapter12/index.html)」
