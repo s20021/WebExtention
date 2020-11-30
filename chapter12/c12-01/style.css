@@ -7,7 +7,15 @@ main p:last-child {
 	margin-bottom: 0;
 }
 .container {
+	margin: 0 auto 0 auto;
 	padding: 0 16px 0 16px;
+	max-width: 1000px;
+}
+nav {
+	margin-bottom: 20px;
+}
+footer {
+	margin-top: 20px;
 }
 .main-title {
 	margin: 0;
